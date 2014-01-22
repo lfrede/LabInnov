@@ -1,0 +1,16 @@
+﻿La génération a démarré 08/01/2014 14:58:22.
+     1>Projet "c:\Users\Windows\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /IC:\opencv\build\include\opencv /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\ConsoleApplication4.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /errorReport:prompt ConsoleApplication4.cpp
+         ConsoleApplication4.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\windows\documents\visual studio 2012\Projects\ConsoleApplication4\x64\Release\ConsoleApplication4.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x64\vc11\lib opencv_core245.lib opencv_imgproc245.lib opencv_highgui245.lib opencv_ml245.lib opencv_video245.lib opencv_features2d245.lib opencv_calib3d245.lib opencv_objdetect245.lib opencv_contrib245.lib opencv_legacy245.lib opencv_flann245.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\windows\documents\visual studio 2012\Projects\ConsoleApplication4\x64\Release\ConsoleApplication4.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\windows\documents\visual studio 2012\Projects\ConsoleApplication4\x64\Release\ConsoleApplication4.lib" /MACHINE:X64 x64\Release\ConsoleApplication4.obj
+         x64\Release\stdafx.obj
+         Génération de code en cours
+         Fin de la génération du code
+         ConsoleApplication4.vcxproj -> c:\users\windows\documents\visual studio 2012\Projects\ConsoleApplication4\x64\Release\ConsoleApplication4.exe
+     1>Génération du projet "c:\Users\Windows\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.23

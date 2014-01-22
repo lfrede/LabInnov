@@ -1,0 +1,15 @@
+﻿La génération a démarré 08/01/2014 13:50:52.
+     1>Projet "c:\Users\Windows\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication4.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication4.cpp
+         ConsoleApplication4.cpp
+     1>c:\users\windows\documents\visual studio 2012\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(1): warning C4627: '#include "opencv2/highgui/highgui.hpp"' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>c:\users\windows\documents\visual studio 2012\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(2): warning C4627: '#include <iostream>' : ignoré lors de la recherche d'une utilisation d'un en-tête précompilé
+                 Ajoutez la directive à 'stdafx.h' ou régénérez l'en-tête précompilé
+     1>c:\users\windows\documents\visual studio 2012\projects\consoleapplication4\consoleapplication4\consoleapplication4.cpp(49): fatal error C1010: fin de fichier inattendue lors de la recherche d'un en-tête précompilé. N'auriez-vous pas oublié d'ajouter '#include "stdafx.h"' à votre source ?
+     1>Génération du projet "c:\Users\Windows\documents\visual studio 2012\Projects\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.08
